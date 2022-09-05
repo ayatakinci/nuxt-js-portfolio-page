@@ -1,0 +1,29 @@
+{
+    "proje": [
+      {
+        "id": 0,
+        "title1": "Dünya Gözl",
+        "src": "image/dunyagoz.jpg",
+        "description": "2500m2 Construction Zone"
+      },
+      {
+        "id": 1,
+        "title2": "Hospital",
+        "src": "image/dunyagoz.jpg",
+        "description": "Filan Falan Buba"
+      },
+      {
+        "id": 2,
+        "title": "Hospital",
+        "src": "image/dunyagoz.jpg",
+        "description": "Filan Falan Buba"
+      },
+      {
+        "id": 3,
+        "title": "Hospital",
+        "src": "image/dunyagoz.jpg",
+        "description": "Filan Falan Buba"
+      }
+    ]
+  }
+  
